@@ -1,1 +1,1 @@
-# neural_sysyems_wm_removal
+# Neural Systems of Working Memory Removal
